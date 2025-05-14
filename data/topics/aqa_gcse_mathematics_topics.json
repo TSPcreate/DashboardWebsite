@@ -1,0 +1,38 @@
+[
+    {
+        "topic_number": "8300",
+        "title": "AQA GCSE Mathematics (8300)",
+        "subtopics": [
+            {
+                "id": "Number",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Algebra",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Ratio, Proportion and Rates of Change",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Geometry and Measures",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Probability",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Statistics",
+                "description": "",
+                "sub_section": ""
+            }
+        ]
+    }
+]

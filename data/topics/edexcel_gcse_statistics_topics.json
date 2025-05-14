@@ -1,0 +1,23 @@
+[
+    {
+        "topic_number": "1ST0",
+        "title": "Edexcel GCSE Statistics (1ST0)",
+        "subtopics": [
+            {
+                "id": "Collection of Data",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Processing, Representing and Analysing Data",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Probability",
+                "description": "",
+                "sub_section": ""
+            }
+        ]
+    }
+]

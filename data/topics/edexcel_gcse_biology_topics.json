@@ -1,0 +1,53 @@
+[
+    {
+        "topic_number": "1BI0",
+        "title": "Edexcel GCSE Biology (1BI0)",
+        "subtopics": [
+            {
+                "id": "Key concepts in biology",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Cells and control",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Genetics",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Natural selection and genetic modification",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Health, disease and the development of medicines",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Plant structures and their functions",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Animal coordination, control and homeostasis",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Exchange and transport in animals",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Ecosystems and material cycles",
+                "description": "",
+                "sub_section": ""
+            }
+        ]
+    }
+]

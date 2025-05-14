@@ -1,0 +1,83 @@
+[
+    {
+        "topic_number": "1PH0",
+        "title": "\ufe0f Edexcel GCSE Physics (1PH0)",
+        "subtopics": [
+            {
+                "id": "Key concepts of physics",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Motion and forces",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Conservation of energy",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Waves",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Light and the electromagnetic spectrum",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Radioactivity",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Astronomy",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Energy \u2013 Forces doing work",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Forces and their effects",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Electricity and circuits",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Static electricity",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Magnetism and the motor effect",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Electromagnetic induction",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Particle model",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Forces and matter",
+                "description": "",
+                "sub_section": ""
+            }
+        ]
+    }
+]

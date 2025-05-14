@@ -1,0 +1,23 @@
+[
+    {
+        "topic_number": "8700",
+        "title": "AQA GCSE English Language (8700)",
+        "subtopics": [
+            {
+                "id": "Paper 1: Explorations in Creative Reading and Writing",
+                "description": "Reading one literature fiction text. Writing descriptive or narrative writing.",
+                "sub_section": ""
+            },
+            {
+                "id": "Paper 2: Writers\u2019 Viewpoints and Perspectives",
+                "description": "Reading one non-fiction text and one literary non-fiction text. Writing to present a viewpoint.",
+                "sub_section": ""
+            },
+            {
+                "id": "Non-exam assessment: Spoken Language",
+                "description": "Presenting, responding to questions and feedback, use of Standard English.",
+                "sub_section": ""
+            }
+        ]
+    }
+]

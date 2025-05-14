@@ -1,0 +1,119 @@
+[
+  {
+    "Subject": "Maths",
+    "MeanGrade": "8.69",
+    "MeanPercentage": "96.6%",
+    "StdDevPercentage": "5.3%",
+    "WarningLimitPercentage": "85.9%",
+    "ActionLimitPercentage": "91.2%",
+    "PredictedGrade": "8.69"
+  },
+  {
+    "Subject": "Biology",
+    "MeanGrade": "8.18",
+    "MeanPercentage": "90.9%",
+    "StdDevPercentage": "9.7%",
+    "WarningLimitPercentage": "71.4%",
+    "ActionLimitPercentage": "81.2%",
+    "PredictedGrade": "8.18"
+  },
+  {
+    "Subject": "Chemistry",
+    "MeanGrade": "8.12",
+    "MeanPercentage": "90.2%",
+    "StdDevPercentage": "9.2%",
+    "WarningLimitPercentage": "71.8%",
+    "ActionLimitPercentage": "81.0%",
+    "PredictedGrade": "8.12"
+  },
+  {
+    "Subject": "Physics",
+    "MeanGrade": "8.00",
+    "MeanPercentage": "88.9%",
+    "StdDevPercentage": "7.4%",
+    "WarningLimitPercentage": "74.1%",
+    "ActionLimitPercentage": "81.4%",
+    "PredictedGrade": "8.00"
+  },
+  {
+    "Subject": "Computer Science",
+    "MeanGrade": "8.30",
+    "MeanPercentage": "92.2%",
+    "StdDevPercentage": "8.3%",
+    "WarningLimitPercentage": "75.6%",
+    "ActionLimitPercentage": "83.9%",
+    "PredictedGrade": "8.30"
+  },
+  {
+    "Subject": "ICLMS Past Paper",
+    "MeanGrade": "6.50",
+    "MeanPercentage": "72.2%",
+    "StdDevPercentage": "23.6%",
+    "WarningLimitPercentage": "25.1%",
+    "ActionLimitPercentage": "48.7%",
+    "PredictedGrade": "6.50"
+  },
+  {
+    "Subject": "Literature",
+    "MeanGrade": "8.00",
+    "MeanPercentage": "88.9%",
+    "StdDevPercentage": "0.0%",
+    "WarningLimitPercentage": "88.9%",
+    "ActionLimitPercentage": "88.9%",
+    "PredictedGrade": "8.00"
+  },
+  {
+    "Subject": "Statistics",
+    "MeanGrade": "8.25",
+    "MeanPercentage": "91.7%",
+    "StdDevPercentage": "5.6%",
+    "WarningLimitPercentage": "80.6%",
+    "ActionLimitPercentage": "86.1%",
+    "PredictedGrade": "8.25"
+  },
+  {
+    "Subject": "History",
+    "MeanGrade": "8.00",
+    "MeanPercentage": "88.9%",
+    "StdDevPercentage": "0.0%",
+    "WarningLimitPercentage": "88.9%",
+    "ActionLimitPercentage": "88.9%",
+    "PredictedGrade": "8.00"
+  },
+  {
+    "Subject": "FurtherMaths",
+    "MeanGrade": "8.67",
+    "MeanPercentage": "96.3%",
+    "StdDevPercentage": "6.4%",
+    "WarningLimitPercentage": "83.4%",
+    "ActionLimitPercentage": "89.9%",
+    "PredictedGrade": "8.67"
+  },
+  {
+    "Subject": "Further Maths",
+    "MeanGrade": "N/A (No Data)",
+    "MeanPercentage": "N/A",
+    "StdDevPercentage": "N/A",
+    "WarningLimitPercentage": "N/A",
+    "ActionLimitPercentage": "N/A",
+    "PredictedGrade": "N/A"
+  },
+  {
+    "Subject": "English Language",
+    "MeanGrade": "N/A (No Data)",
+    "MeanPercentage": "N/A",
+    "StdDevPercentage": "N/A",
+    "WarningLimitPercentage": "N/A",
+    "ActionLimitPercentage": "N/A",
+    "PredictedGrade": "N/A"
+  },
+  {
+    "Subject": "English Literature",
+    "MeanGrade": "N/A (No Data)",
+    "MeanPercentage": "N/A",
+    "StdDevPercentage": "N/A",
+    "WarningLimitPercentage": "N/A",
+    "ActionLimitPercentage": "N/A",
+    "PredictedGrade": "N/A"
+  }
+]

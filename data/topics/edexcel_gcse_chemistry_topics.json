@@ -1,0 +1,53 @@
+[
+    {
+        "topic_number": "1CH0",
+        "title": "Edexcel GCSE Chemistry (1CH0)",
+        "subtopics": [
+            {
+                "id": "Key concepts in chemistry",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "States of matter and mixtures",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Chemical changes",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Extracting metals and equilibria",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Separate chemistry 1",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Groups in the periodic table",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Rates of reaction and energy changes",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Fuels and Earth science",
+                "description": "",
+                "sub_section": ""
+            },
+            {
+                "id": "Separate chemistry 2",
+                "description": "",
+                "sub_section": ""
+            }
+        ]
+    }
+]

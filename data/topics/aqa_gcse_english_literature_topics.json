@@ -1,0 +1,18 @@
+[
+    {
+        "topic_number": "8702",
+        "title": "AQA GCSE English Literature (8702)",
+        "subtopics": [
+            {
+                "id": "Paper 1: Shakespeare and the 19th-century novel",
+                "description": "Study of one Shakespeare play and one 19th-century novel.",
+                "sub_section": ""
+            },
+            {
+                "id": "Paper 2: Modern texts and poetry",
+                "description": "Study of one modern prose or drama text, a poetry anthology, and unseen poetry.",
+                "sub_section": ""
+            }
+        ]
+    }
+]
